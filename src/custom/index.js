@@ -5,8 +5,8 @@
  * media queries.
  */
 module.exports.brandNames = {
-  desktop: 'Wobble API Documentation',
-  tablet: 'Wobble API Docs',
+  desktop: 'INKchain SDK API Docs',
+  tablet: 'INKchain API Docs',
   mobile: 'API Docs'
 };
 
