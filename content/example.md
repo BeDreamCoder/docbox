@@ -519,7 +519,7 @@ curl -s -X GET http://{server_address}/block-heigth
 ```
 * data为当前的区块高度
 
-## INKchain Explore Api
+## INKchain Explorer Api
 ### 交易总数
 #### Example request
 ```curl

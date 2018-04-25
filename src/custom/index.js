@@ -5,7 +5,7 @@
  * media queries.
  */
 module.exports.brandNames = {
-  desktop: 'INKchain SDK API Docs',
+  desktop: 'INKchain RESTful API Docs',
   tablet: 'INKchain API Docs',
   mobile: 'API Docs'
 };
